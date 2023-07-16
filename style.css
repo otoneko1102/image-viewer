@@ -4,8 +4,8 @@ html {
 }
 
 .button {
-  padding: 10px 20px;
-  font-size: 16px;
+  padding: 80px 160px;
+  font-size: 100px;
   cursor: pointer;
 }
 
@@ -16,4 +16,5 @@ html {
 
 #image {
   max-width: 100%;
+  height: auto;
 }
